@@ -1,0 +1,186 @@
+2026-07-21 09:37:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Sukumar\Documents\Opencartv121\master.xml"
+2026-07-21 09:37:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sukumar\Documents\Opencartv121\master.xml
+
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:37:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:37:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:40:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Sukumar\Documents\Opencartv121\master.xml"
+2026-07-21 09:40:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sukumar\Documents\Opencartv121\master.xml
+
+2026-07-21 09:40:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Sukumar\Documents\Opencartv121\grouping.xml"
+2026-07-21 09:40:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sukumar\Documents\Opencartv121\grouping.xml
+
+2026-07-21 09:45:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Sukumar\Documents\Opencartv121\grouping.xml"
+2026-07-21 09:45:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sukumar\Documents\Opencartv121\grouping.xml
+
+2026-07-21 09:45:48 INFO  TC002_LoginTest:44 - ****** Startign TC_002_invalidLoginTest *****
+2026-07-21 09:45:49 INFO  TC002_LoginTest:62 - ****** Finished TC_002_InvalidLoginTest *****
+2026-07-21 09:45:49 INFO  TC002_LoginTest:21 - ****** Startign TC_002_LoginTest *****
+2026-07-21 09:45:51 INFO  TC002_LoginTest:39 - ****** Finished TC_002_LoginTest *****
+2026-07-21 09:45:53 INFO  TC001_AccountRegistrationTest:16 - ***** Starting account registration test *****
+2026-07-21 09:45:54 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2026-07-21 09:45:54 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2026-07-21 09:45:56 INFO  TC001_AccountRegistrationTest:61 - finished TC001 account registration test
+2026-07-21 09:56:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Sukumar\Documents\Opencartv121\master.xml"
+2026-07-21 09:56:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sukumar\Documents\Opencartv121\master.xml
+
+2026-07-21 09:56:44 INFO  TC001_AccountRegistrationTest:16 - ***** Starting account registration test *****
+2026-07-21 09:56:45 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2026-07-21 09:56:45 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2026-07-21 09:56:46 INFO  TC001_AccountRegistrationTest:61 - finished TC001 account registration test
+2026-07-21 09:56:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-07-21 09:56:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-07-21 09:56:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+2026-07-21 09:56:50 INFO  TC003_LoginDDT:29 - ***** stating TC_003_LoginDDT ******
+2026-07-21 09:56:55 INFO  TC003_LoginDDT:68 - ***** Finished TC_003_LoginDDT ******
+2026-07-21 09:56:55 INFO  TC003_LoginDDT:29 - ***** stating TC_003_LoginDDT ******
+2026-07-21 09:56:59 INFO  TC003_LoginDDT:68 - ***** Finished TC_003_LoginDDT ******
+2026-07-21 09:56:59 INFO  TC003_LoginDDT:29 - ***** stating TC_003_LoginDDT ******
+2026-07-21 09:57:04 INFO  TC003_LoginDDT:68 - ***** Finished TC_003_LoginDDT ******
+2026-07-21 09:57:04 INFO  TC003_LoginDDT:29 - ***** stating TC_003_LoginDDT ******
+2026-07-21 09:57:18 INFO  TC003_LoginDDT:68 - ***** Finished TC_003_LoginDDT ******
+2026-07-21 09:57:18 INFO  TC003_LoginDDT:29 - ***** stating TC_003_LoginDDT ******
+2026-07-21 09:57:32 INFO  TC003_LoginDDT:68 - ***** Finished TC_003_LoginDDT ******
+2026-07-21 10:02:59 INFO  TC001_AccountRegistrationTest:16 - ***** Starting account registration test *****
+2026-07-21 10:02:59 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2026-07-21 10:02:59 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2026-07-21 10:03:02 INFO  TC001_AccountRegistrationTest:61 - finished TC001 account registration test
+2026-07-21 10:03:05 INFO  TC002_LoginTest:44 - ****** Startign TC_002_invalidLoginTest *****
+2026-07-21 10:03:06 INFO  TC002_LoginTest:62 - ****** Finished TC_002_InvalidLoginTest *****
+2026-07-21 10:03:06 INFO  TC002_LoginTest:21 - ****** Startign TC_002_LoginTest *****
+2026-07-21 10:03:08 INFO  TC002_LoginTest:39 - ****** Finished TC_002_LoginTest *****
